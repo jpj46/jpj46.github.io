@@ -1,0 +1,60 @@
+{"frames": {
+
+"Maze.png":
+{
+	"frame": {"x":0,"y":0,"w":640,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":640},
+	"sourceSize": {"w":640,"h":640}
+},
+"Spider sprite left.png":
+{
+	"frame": {"x":640,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Spider sprite right.png":
+{
+	"frame": {"x":656,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Spider sprite up.png":
+{
+	"frame": {"x":672,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Spider sprite.png":
+{
+	"frame": {"x":688,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Wall.png":
+{
+	"frame": {"x":704,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA8888",
+	"size": {"w":720,"h":640},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:493f7bfe1758d4d701e0ee22b1d3c6e9:b9039b8c353c6e805b8e2d089b108bf1:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}
